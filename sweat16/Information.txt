@@ -1,0 +1,29 @@
+หาฟีลของ follower ได้จาก : 
+
+name (ภาษาไทย/อังกฤษ) , 
+screen_name , 
+
+profile_location , 
+description(หาความยาว) , 
+
+true/false
+url , 
+protected , 
+default_profile , 
+default_profile_image ,
+has_extended_profile  
+
+จำนวน
+follwers_count , 
+friends_count , 
+favourites_count
+
+แยก
+Location , "San Francisco, CA"
+created_at , "Mon Nov 29 21:18:15 +0000 2010"
+lang , "en"
+
+xxxxx_color , "0094C2"
+
+
+https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object
